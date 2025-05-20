@@ -1,0 +1,113 @@
+
+
+.divider-log-in{
+         margin: 15px 0;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+    }
+    
+.divider-log-in span::before,
+.divider-log-in span::after{
+        content: "";
+        display: inline-block;
+        width: 35%;
+        height: 2px;
+        background-color: #ffffff;
+        vertical-align: middle;
+        margin: 0 10px;
+    }
+/* .sign-up-container img {
+  width: 200px;
+} */
+.log-logo-con img {
+width: 200px;
+    height: auto;
+}
+.log-logo-con {
+ display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.log-in-container {
+    width: 100%;
+    max-width: 350px;
+    padding: 30px 40px;
+    background-color: #85baff;
+    color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 1);
+    font-size: 15px;
+    text-align: center;
+}
+
+/* .inputers {
+        width: 280px;
+        height: 10px;
+        padding: 10px;
+        font-size: 16px;
+} */
+.inputers {
+    width: 100%;
+    height: 35px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.up-up {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.button-sign {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.button-sign:hover {
+        background-color: #0056b3;}
+    
+.forgot-password a {
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.forgot-password a:hover {
+    color: #e0e0e0;
+}
+.forgot-password {
+    text-align: right;
+    margin-bottom: 10px;
+}
+.remember-me {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+#log-in-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f4f8;
+}

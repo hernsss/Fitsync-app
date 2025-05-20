@@ -1,0 +1,113 @@
+
+ 
+ #header {
+    background-color: #01377d;
+    
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 20px;
+    height: 30px;
+    font-size: 18px;
+   
+  }
+  .nav-links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+  }
+  .nav-links li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    width: 100px;
+    height: 70px;
+  }
+  .nav-links a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  .logo img {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-left: -50px;
+    
+  }
+  li a:hover{
+    background-color: #38b6ff;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 0 auto;
+    cursor: pointer;
+  }
+  
+  
+  .image-fitness 
+  {width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    margin: 30px;
+  
+  }
+  .fitness-image {
+    display: flex ;
+    align-items: center;
+    
+  }
+
+.see-more {
+background-color: rgb(1, 55, 125);
+margin: 20px;
+padding: 10px 20px;
+color: #ffffff;
+}
+
+.join-us {
+background-color: #01377d;
+margin: 20px;
+padding: 10px 20px;
+color: #ffffff;}
+
+.landing-con {
+    
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.fitness-image {
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px 5px #01377d;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.landing-con img {
+    border-radius: 10px;
+     border: 2px solid #5c67ff;
+     width: 300px;
+     height: 400px;
+     object-fit: cover;
+     margin-bottom: 10px;
+}
+
+footer {
+      background-color: #01377d;
+      color: white;
+      height: auto;
+      width: 100%;
+      text-align: center;
+      padding: 30px;
+    }

@@ -1,0 +1,130 @@
+/* .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+    margin: 20px;
+    padding: 60px 80px;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  
+  #header {
+    background-color: #01377d;
+    
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 20px;
+    height: 30px;
+    font-size: 18px;
+   
+  }
+  .nav-links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+  }
+  .nav-links li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    width: 100px;
+    height: 70px;
+  }
+  .nav-links a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  .logo img {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-left: -50px;
+  }
+  li a:hover{
+    background-color: #38b6ff;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 0 auto;
+    cursor: pointer;
+  }
+  
+  
+  .image-fitness 
+  {width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    margin: 30px;
+  
+  }
+  .fitness-image {
+    display: flex ;
+    align-items: center;
+    margin: 0px;
+  }
+
+  .about-section {
+  background-image: url(file:///C:/Users/hermel/Downloads/Website%20folder/bg-img/4060976.jpg); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 20px;
+  height: 200px;
+  max-width: 1500px;
+  margin: auto;
+  color: #000000;
+  text-align: center;
+  border-style: outset;
+  border-color: #ffffff;
+  
+}
+
+.vision-section{
+  background-image: url(file:///C:/Users/hermel/Downloads/Website%20folder/bg-img/4060976.jpg); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 20px;
+  height: 200px;
+  max-width: 1500px;
+  margin: auto;
+  color: #000000;
+  text-align: center;
+  border-style: outset;
+  border-color: #ffffff;
+}
+
+.mission-section{
+  background-image: url(file:///C:/Users/hermel/Downloads/Website%20folder/bg-img/4060976.jpg); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 20px;
+  height: 200px;
+  max-width: 1500px;
+  margin: auto;
+  color: #000000;
+  text-align: center;
+  border-style: outset;
+  border-color: #ffffff;
+} */
+ .about-section {
+  background-image: url(file:///C:/Users/hermel/Downloads/Website%20folder/bg-img/4060976.jpg); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 20px;
+  height: 200px;
+  max-width: 1500px;
+  margin: auto;
+  color: #000000;
+  text-align: center;
+  border-style: outset;
+  border-color: #ffffff;
+  
+}
